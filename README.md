@@ -1,9 +1,2 @@
-# a
-# s
-# d
-# s
-# s
-# d
-# ds
-# d
-# d
+# 開原教育
+# the official website[https://google.com]
